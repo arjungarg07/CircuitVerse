@@ -39,7 +39,7 @@ export default {
         "--hover-and-sel": "rgba(255, 255, 32, 0.8)",
         "--wire-draw": "black",
         "--wire-cnt": "green",
-        "--wire-pow": "lightgreen",
+        "--wire-pow": "lime",
         "--wire-sel": "blue",
         "--wire-lose": "red",
         "--mini-map": "green",
